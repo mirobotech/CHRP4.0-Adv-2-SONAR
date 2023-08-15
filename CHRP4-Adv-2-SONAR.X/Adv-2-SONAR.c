@@ -1,5 +1,5 @@
 /*==============================================================================
- Project: Adv-2-SONAR                   Activity: mirobo.tech/chrp4-adv-2
+ Project: Adv-2-SONAR                   Activity: mirobo.tech/chrp4-advanced-2
  Date:    May 24, 2023
  
  This advanced programming activity for the mirobo.tech CHRP4 demonstrates an
